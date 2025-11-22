@@ -211,3 +211,9 @@ Hope you find this project helpful! Kindly cite our paper at
       url={https://arxiv.org/abs/2506.06091}, 
 }
 ```
+## Licensing
+#### Dataset
+For detailed licensing of the dataset, please feel free to refer to [this page](https://huggingface.co/miriad#:~:text=arXiv%20preprint.-,Licensing,-In%20this%20paper).
+
+#### Code
+All code in this repository is released under the MIT License (see [LICENSE](./LICENSE)).
